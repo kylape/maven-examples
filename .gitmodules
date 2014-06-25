@@ -1,0 +1,21 @@
+[submodule "cxf-client-bus-test"]
+	path = cxf-client-bus-test
+	url = git@github.com:kylape/cxf-client-bus-test.git
+[submodule "invalid-soap-test"]
+	path = invalid-soap-test
+	url = git@github.com:kylape/invalid-soap-test.git
+[submodule "jaxrpc-example"]
+	path = jaxrpc-example
+	url = git@github.com:kylape/jaxrpc-example.git
+[submodule "logging-configuration"]
+	path = logging-configuration
+	url = git@github.com:kylape/logging-configurations.git
+[submodule "multiple-uri-example"]
+	path = multiple-uri-example
+	url = git@github.com:kylape/multiple-uri-example.git
+[submodule "pooled-ws-client-test"]
+	path = pooled-ws-client-test
+	url = git@github.com:kylape/pooled-ws-client-test.git
+[submodule "spring-injection-example"]
+	path = spring-injection-example
+	url = git@github.com:kylape/spring-injection-example.git
