@@ -19,3 +19,6 @@
 [submodule "spring-injection-example"]
 	path = spring-injection-example
 	url = git@github.com:kylape/spring-injection-example.git
+[submodule "jbossws-sign-encrypt"]
+	path = jbossws-sign-encrypt
+	url = git@github.com:kylape/jbossws-sign-encrypt.git
