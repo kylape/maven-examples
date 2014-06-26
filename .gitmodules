@@ -8,7 +8,7 @@
 	path = jaxrpc-example
 	url = git@github.com:kylape/jaxrpc-example.git
 [submodule "logging-configuration"]
-	path = logging-configuration
+	path = logging-configurations
 	url = git@github.com:kylape/logging-configurations.git
 [submodule "multiple-uri-example"]
 	path = multiple-uri-example
