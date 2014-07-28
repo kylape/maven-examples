@@ -22,3 +22,6 @@
 [submodule "jbossws-sign-encrypt"]
 	path = jbossws-sign-encrypt
 	url = git@github.com:kylape/jbossws-sign-encrypt.git
+[submodule "jbossws-username-token"]
+	path = jbossws-username-token
+	url = git@github.com:kylape/jbossws-username-token.git
